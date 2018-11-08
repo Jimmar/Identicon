@@ -20,4 +20,5 @@ iex(1)> Identicon.main("asdf")
 ```
 
 which will create this
+
 ![asdf](/asdf.png?raw=true)
